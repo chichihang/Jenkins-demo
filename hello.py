@@ -1,1 +1,1 @@
-print('hello from jenkins')
+print('hello from auto-update on Githuv by jenkins ')
